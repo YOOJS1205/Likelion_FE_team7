@@ -35,7 +35,7 @@
 
 - 결과
 <div align="center">
-    <img src="images/마진상쇄.png" width="500">
+    <img src="images/유준상_마진상쇄.png" width="500">
 </div><br>
 => 다음과 같이 큰 값인 60px만 적용되었음을 확인할 수 있다.<br><br>
 
@@ -71,7 +71,7 @@
 
 - 결과
 <div align="center">
-    <img src="images/마진상쇄4.png" width="500">
+    <img src="images/유준상_마진상쇄4.png" width="500">
 </div><br>
 => 다음과 같이 부모의 영역을 뚫고 자식의 마진이 발생된 것을 확인할 수 있다.<br><br>
 
@@ -106,7 +106,7 @@
 
 - 결과
 <div align="center">
-    <img src="images/마진상쇄3.png" width="500">
+    <img src="images/유준상_마진상쇄3.png" width="500">
 </div><br>
 => 다음과 같이 빈 블록의 마진이 상쇄된 것을 확인할 수 있다.<br><br>
 
